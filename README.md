@@ -29,7 +29,7 @@ This project was built using a full-stack approach with a **Spring Boot** backen
 
 - **Frontend**: React, Tailwind CSS, Chart.js for visualizations
 - **Backend**: Spring Boot, Spring Security (JWT for authentication)
-- **Database**: PostgreSQL
+- **Database**: MySql
 - **Machine Learning**: Python, Scikit-Learn, SHAP for interpretability
 - **Deployment**: Docker, AWS (or Heroku)
 
@@ -56,7 +56,7 @@ This project was built using a full-stack approach with a **Spring Boot** backen
 
 - [Node.js](https://nodejs.org/)
 - [Java 11+](https://www.oracle.com/java/technologies/javase-downloads.html)
-- [PostgreSQL](https://www.postgresql.org/)
+- [MySQL](https://www.mysql.com/)
 - [Python 3.x](https://www.python.org/)
 
 ### Backend Setup
